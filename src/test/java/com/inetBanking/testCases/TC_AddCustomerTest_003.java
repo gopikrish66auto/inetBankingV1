@@ -31,7 +31,7 @@ public class TC_AddCustomerTest_003 extends BaseTestClass
 		Log.info("providing customer details....");
 		Thread.sleep(5000);
 //		addcust.switchToWindow();
-//		addcust.closeAd();
+		addcust.closeAd();
 		
 		addcust.custName("Pavan");
 		addcust.custgender("male");

@@ -3,12 +3,15 @@ package com.inetBanking.pageObjects;
 import java.util.Set;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.PageFactory;
+
+import com.inetBanking.utilities.Log;
 
 public class AddCustomerPage {
 
@@ -140,8 +143,18 @@ public class AddCustomerPage {
 	}
 	
 	public void closeAd() {
-		ldriver.switchTo().frame(ldriver.findElement(By.id("ad_iframe")));
-		ldriver.findElement(By.id("dismiss-button"));
-		ldriver.switchTo().defaultContent();
+		
+		try {
+			ldriver.switchTo().frame("google_ads_iframe_/24132379/INTERSTITIAL_DemoGuru99_0");
+			ldriver.switchTo().frame("ad_iframe");
+			ldriver.findElement(By.xpath("//div[@id='dismiss-button']")).click();
+			ldriver.switchTo().defaultContent();
+			
+		}
+		catch (NoSuchElementException e) {
+			
+			Log.info("Ad is not popped up");
+		}
+		
 	}
 }

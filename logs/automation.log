@@ -1,254 +1,63 @@
-[INFO ] 2022-03-02 08:42:04.883 [main] Log - Driver initialised
-[INFO ] 2022-03-02 08:42:10.521 [main] Log - com.inetBanking.testCases.TC_LoginDDT_002Loaded basurl:https://demo.guru99.com/V4/index.php
-[INFO ] 2022-03-02 08:42:10.955 [main] Log - TearDown
-[INFO ] 2022-03-02 08:47:37.949 [main] Log - Driver initialised
-[INFO ] 2022-03-02 08:47:43.162 [main] Log - com.inetBanking.testCases.TC_LoginDDT_002Loaded basurl:https://demo.guru99.com/V4/index.php
-[INFO ] 2022-03-02 08:47:43.598 [main] Log - TearDown
-[INFO ] 2022-03-02 08:49:06.897 [main] Log - Driver initialised
-[INFO ] 2022-03-02 08:49:11.262 [main] Log - com.inetBanking.testCases.TC_LoginDDT_002Loaded basurl:https://demo.guru99.com/V4/index.php
-[INFO ] 2022-03-02 08:49:11.720 [main] Log - TearDown
-[INFO ] 2022-03-02 08:51:34.220 [main] Log - Driver initialised
-[INFO ] 2022-03-02 08:51:38.634 [main] Log - com.inetBanking.testCases.TC_LoginDDT_002Loaded basurl:https://demo.guru99.com/V4/index.php
-[INFO ] 2022-03-02 08:51:38.642 [main] Log - Inside Data Provider
-[INFO ] 2022-03-02 08:51:39.007 [main] Log - TearDown
-[INFO ] 2022-03-02 08:53:30.070 [main] Log - Driver initialised
-[INFO ] 2022-03-02 08:53:34.312 [main] Log - com.inetBanking.testCases.TC_LoginDDT_002Loaded basurl:https://demo.guru99.com/V4/index.php
-[INFO ] 2022-03-02 08:53:34.319 [main] Log - Inside Data Provider
-[INFO ] 2022-03-02 08:55:28.775 [main] Log - TearDown
-[INFO ] 2022-03-02 08:56:14.994 [main] Log - Driver initialised
-[INFO ] 2022-03-02 08:56:20.017 [main] Log - com.inetBanking.testCases.TC_LoginDDT_002Loaded basurl:https://demo.guru99.com/V4/index.php
-[INFO ] 2022-03-02 08:56:20.025 [main] Log - Inside Data Provider
-[INFO ] 2022-03-02 08:56:20.698 [main] Log - TearDown
-[INFO ] 2022-03-02 08:57:15.373 [main] Log - Driver initialised
-[INFO ] 2022-03-02 08:57:19.652 [main] Log - com.inetBanking.testCases.TC_LoginDDT_002Loaded basurl:https://demo.guru99.com/V4/index.php
-[INFO ] 2022-03-02 08:57:19.660 [main] Log - Inside Data Provider
-[INFO ] 2022-03-02 08:59:35.933 [main] Log - TearDown
-[INFO ] 2022-03-02 09:03:12.554 [main] Log - Driver initialised
-[INFO ] 2022-03-02 09:03:16.765 [main] Log - com.inetBanking.testCases.TC_LoginDDT_002Loaded basurl:https://demo.guru99.com/V4/index.php
-[INFO ] 2022-03-02 09:03:16.778 [main] Log - Inside Data Provider
-[INFO ] 2022-03-02 09:03:17.232 [main] Log - TearDown
-[INFO ] 2022-03-02 09:05:12.323 [main] Log - Driver initialised
-[INFO ] 2022-03-02 09:05:19.018 [main] Log - com.inetBanking.testCases.TC_LoginDDT_002Loaded basurl:https://demo.guru99.com/V4/index.php
-[INFO ] 2022-03-02 09:05:19.029 [main] Log - Inside Data Provider
-[INFO ] 2022-03-02 09:05:19.506 [main] Log - TearDown
-[INFO ] 2022-03-02 09:09:15.974 [main] Log - Driver initialised
-[INFO ] 2022-03-02 09:09:20.405 [main] Log - com.inetBanking.testCases.TC_LoginDDT_002Loaded basurl:https://demo.guru99.com/V4/index.php
-[INFO ] 2022-03-02 09:09:20.411 [main] Log - Inside Data Provider
-[INFO ] 2022-03-02 09:09:44.464 [main] Log - user name provided
-[INFO ] 2022-03-02 09:09:44.569 [main] Log - password provided
-[INFO ] 2022-03-02 09:11:00.993 [main] Log - Driver initialised
-[INFO ] 2022-03-02 09:11:06.266 [main] Log - com.inetBanking.testCases.TC_LoginDDT_002Loaded basurl:https://demo.guru99.com/V4/index.php
-[INFO ] 2022-03-02 09:11:06.274 [main] Log - Inside Data Provider
-[INFO ] 2022-03-02 09:11:08.778 [main] Log - user name provided
-[INFO ] 2022-03-02 09:11:08.937 [main] Log - password provided
-[INFO ] 2022-03-02 09:11:12.127 [main] Log - user name provided
-[INFO ] 2022-03-02 09:11:12.250 [main] Log - password provided
-[INFO ] 2022-03-02 09:11:16.451 [main] Log - user name provided
-[INFO ] 2022-03-02 09:11:16.824 [main] Log - password provided
-[INFO ] 2022-03-02 09:11:19.550 [main] Log - user name provided
-[INFO ] 2022-03-02 09:11:19.672 [main] Log - password provided
-[INFO ] 2022-03-02 09:11:22.750 [main] Log - user name provided
-[INFO ] 2022-03-02 09:11:22.880 [main] Log - password provided
-[INFO ] 2022-03-02 09:11:25.651 [main] Log - TearDown
-[INFO ] 2022-03-02 09:13:03.083 [main] Log - Driver initialised
-[INFO ] 2022-03-02 09:13:07.404 [main] Log - com.inetBanking.testCases.TC_LoginDDT_002Loaded basurl:https://demo.guru99.com/V4/index.php
-[INFO ] 2022-03-02 09:13:07.410 [main] Log - Inside Data Provider
-[INFO ] 2022-03-02 09:13:10.038 [main] Log - user name provided
-[INFO ] 2022-03-02 09:13:10.200 [main] Log - password provided
-[INFO ] 2022-03-02 09:13:13.263 [main] Log - user name provided
-[INFO ] 2022-03-02 09:13:13.632 [main] Log - password provided
-[INFO ] 2022-03-02 09:13:16.349 [main] Log - user name provided
-[INFO ] 2022-03-02 09:13:16.465 [main] Log - password provided
-[INFO ] 2022-03-02 09:13:19.913 [main] Log - user name provided
-[INFO ] 2022-03-02 09:13:20.046 [main] Log - password provided
-[INFO ] 2022-03-02 09:13:23.068 [main] Log - user name provided
-[INFO ] 2022-03-02 09:13:23.368 [main] Log - password provided
-[INFO ] 2022-03-02 09:13:25.886 [main] Log - user name provided
-[INFO ] 2022-03-02 09:13:26.203 [main] Log - password provided
-[INFO ] 2022-03-02 09:13:28.905 [main] Log - Login passed
-[INFO ] 2022-03-02 09:13:31.999 [main] Log - TearDown
-[INFO ] 2022-03-02 09:17:39.083 [main] Log - Driver initialised
-[INFO ] 2022-03-02 09:17:43.410 [main] Log - com.inetBanking.testCases.TC_LoginTest_001Loaded basurl:https://demo.guru99.com/V4/index.php
-[INFO ] 2022-03-02 09:17:43.610 [main] Log - TC_LoginTest_001Entered username:mngr387734
-[INFO ] 2022-03-02 09:17:43.881 [main] Log - Entered password:tehepap
-[INFO ] 2022-03-02 09:17:47.126 [main] Log - Clicked on login button
-[INFO ] 2022-03-02 09:17:47.139 [main] Log - Test Case is Passed
-[INFO ] 2022-03-02 09:17:47.449 [main] Log - TearDown
-[INFO ] 2022-03-02 09:17:48.598 [main] Log - Driver initialised
-[INFO ] 2022-03-02 09:17:53.689 [main] Log - com.inetBanking.testCases.TC_LoginDDT_002Loaded basurl:https://demo.guru99.com/V4/index.php
-[INFO ] 2022-03-02 09:17:53.692 [main] Log - Inside Data Provider
-[INFO ] 2022-03-02 09:17:56.155 [main] Log - user name provided
-[INFO ] 2022-03-02 09:17:56.308 [main] Log - password provided
-[INFO ] 2022-03-02 09:17:59.316 [main] Log - user name provided
-[INFO ] 2022-03-02 09:17:59.689 [main] Log - password provided
-[INFO ] 2022-03-02 09:18:02.792 [main] Log - user name provided
-[INFO ] 2022-03-02 09:18:02.921 [main] Log - password provided
-[INFO ] 2022-03-02 09:18:06.451 [main] Log - user name provided
-[INFO ] 2022-03-02 09:18:06.835 [main] Log - password provided
-[INFO ] 2022-03-02 09:18:09.496 [main] Log - user name provided
-[INFO ] 2022-03-02 09:18:09.810 [main] Log - password provided
-[INFO ] 2022-03-02 09:18:12.148 [main] Log - user name provided
-[INFO ] 2022-03-02 09:18:12.473 [main] Log - password provided
-[INFO ] 2022-03-02 09:18:14.713 [main] Log - Login passed
-[INFO ] 2022-03-02 09:18:17.743 [main] Log - TearDown
-[INFO ] 2022-03-02 09:18:18.945 [main] Log - Driver initialised
-[INFO ] 2022-03-02 09:18:23.118 [main] Log - com.inetBanking.testCases.TC_AddCustomerTest_003Loaded basurl:https://demo.guru99.com/V4/index.php
-[INFO ] 2022-03-02 09:18:23.389 [main] Log - User name is provided
-[INFO ] 2022-03-02 09:18:23.522 [main] Log - Passsword is provided
-[INFO ] 2022-03-02 09:18:29.254 [main] Log - providing customer details....
-[INFO ] 2022-03-02 09:18:46.405 [main] Log - validation started....
-[INFO ] 2022-03-02 09:18:46.469 [main] Log - test case passed....
-[INFO ] 2022-03-02 09:18:46.706 [main] Log - TearDown
-[INFO ] 2022-03-02 10:06:17.190 [main] Log - Driver initialised
-[INFO ] 2022-03-02 10:06:22.789 [main] Log - com.inetBanking.testCases.TC_LoginTest_001Loaded basurl:https://demo.guru99.com/V4/index.php
-[INFO ] 2022-03-02 10:06:23.179 [main] Log - TC_LoginTest_001Entered username:mngr387734
-[INFO ] 2022-03-02 10:06:23.303 [main] Log - Entered password:tehepap
-[INFO ] 2022-03-02 10:06:25.937 [main] Log - Clicked on login button
-[INFO ] 2022-03-02 10:06:25.951 [main] Log - Test Case is Passed
-[INFO ] 2022-03-02 10:06:26.290 [main] Log - TearDown
-[INFO ] 2022-03-02 10:06:27.505 [main] Log - Driver initialised
-[INFO ] 2022-03-02 10:06:34.422 [main] Log - com.inetBanking.testCases.TC_LoginDDT_002Loaded basurl:https://demo.guru99.com/V4/index.php
-[INFO ] 2022-03-02 10:06:34.426 [main] Log - Inside Data Provider
-[INFO ] 2022-03-02 10:06:36.811 [main] Log - user name provided
-[INFO ] 2022-03-02 10:06:36.959 [main] Log - password provided
-[INFO ] 2022-03-02 10:06:40.349 [main] Log - user name provided
-[INFO ] 2022-03-02 10:06:40.494 [main] Log - password provided
-[INFO ] 2022-03-02 10:06:43.941 [main] Log - user name provided
-[INFO ] 2022-03-02 10:06:44.066 [main] Log - password provided
-[INFO ] 2022-03-02 10:06:46.698 [main] Log - user name provided
-[INFO ] 2022-03-02 10:06:47.087 [main] Log - password provided
-[INFO ] 2022-03-02 10:06:50.225 [main] Log - user name provided
-[INFO ] 2022-03-02 10:06:50.564 [main] Log - password provided
-[INFO ] 2022-03-02 10:06:53.103 [main] Log - user name provided
-[INFO ] 2022-03-02 10:06:53.437 [main] Log - password provided
-[INFO ] 2022-03-02 10:06:55.390 [main] Log - Login passed
-[INFO ] 2022-03-02 10:06:58.731 [main] Log - TearDown
-[INFO ] 2022-03-02 10:06:59.933 [main] Log - Driver initialised
-[INFO ] 2022-03-02 10:07:05.488 [main] Log - com.inetBanking.testCases.TC_AddCustomerTest_003Loaded basurl:https://demo.guru99.com/V4/index.php
-[INFO ] 2022-03-02 10:07:05.615 [main] Log - User name is provided
-[INFO ] 2022-03-02 10:07:05.838 [main] Log - Passsword is provided
-[INFO ] 2022-03-02 10:07:11.818 [main] Log - providing customer details....
-[INFO ] 2022-03-02 10:07:29.046 [main] Log - validation started....
-[INFO ] 2022-03-02 10:07:29.093 [main] Log - test case passed....
-[INFO ] 2022-03-02 10:07:29.406 [main] Log - TearDown
-[INFO ] 2022-03-02 10:13:35.639 [main] Log - Driver initialised
-[INFO ] 2022-03-02 10:14:01.914 [main] Log - Driver initialised
-[INFO ] 2022-03-02 10:14:07.622 [main] Log - com.inetBanking.testCases.TC_LoginTest_001Loaded basurl:https://demo.guru99.com/V4/index.php
-[INFO ] 2022-03-02 10:14:07.962 [main] Log - TC_LoginTest_001Entered username:mngr387734
-[INFO ] 2022-03-02 10:14:08.383 [main] Log - Entered password:tehepap
-[INFO ] 2022-03-02 10:14:10.180 [main] Log - Clicked on login button
-[INFO ] 2022-03-02 10:14:10.205 [main] Log - Test Case is Passed
-[INFO ] 2022-03-02 10:14:10.523 [main] Log - TearDown
-[INFO ] 2022-03-02 10:14:11.785 [main] Log - Driver initialised
-[INFO ] 2022-03-02 10:14:16.444 [main] Log - com.inetBanking.testCases.TC_LoginDDT_002Loaded basurl:https://demo.guru99.com/V4/index.php
-[INFO ] 2022-03-02 10:14:16.447 [main] Log - Inside Data Provider
-[INFO ] 2022-03-02 10:14:19.362 [main] Log - user name provided
-[INFO ] 2022-03-02 10:14:19.489 [main] Log - password provided
-[INFO ] 2022-03-02 10:14:22.830 [main] Log - user name provided
-[INFO ] 2022-03-02 10:14:22.942 [main] Log - password provided
-[INFO ] 2022-03-02 10:14:26.589 [main] Log - user name provided
-[INFO ] 2022-03-02 10:14:26.706 [main] Log - password provided
-[INFO ] 2022-03-02 10:14:30.020 [main] Log - user name provided
-[INFO ] 2022-03-02 10:14:30.451 [main] Log - password provided
-[INFO ] 2022-03-02 10:14:33.260 [main] Log - user name provided
-[INFO ] 2022-03-02 10:14:33.426 [main] Log - password provided
-[INFO ] 2022-03-02 10:14:36.268 [main] Log - user name provided
-[INFO ] 2022-03-02 10:14:36.617 [main] Log - password provided
-[INFO ] 2022-03-02 10:14:39.073 [main] Log - Login passed
-[INFO ] 2022-03-02 10:14:41.672 [main] Log - TearDown
-[INFO ] 2022-03-02 10:14:42.852 [main] Log - Driver initialised
-[INFO ] 2022-03-02 10:14:48.705 [main] Log - com.inetBanking.testCases.TC_AddCustomerTest_003Loaded basurl:https://demo.guru99.com/V4/index.php
-[INFO ] 2022-03-02 10:14:48.837 [main] Log - User name is provided
-[INFO ] 2022-03-02 10:14:48.942 [main] Log - Passsword is provided
-[INFO ] 2022-03-02 10:14:54.742 [main] Log - providing customer details....
-[INFO ] 2022-03-02 10:15:00.118 [main] Log - TearDown
-[INFO ] 2022-03-02 10:18:42.603 [main] Log - Driver initialised
-[INFO ] 2022-03-02 10:18:47.989 [main] Log - com.inetBanking.testCases.TC_LoginTest_001Loaded basurl:https://demo.guru99.com/V4/index.php
-[INFO ] 2022-03-02 10:18:48.192 [main] Log - TC_LoginTest_001Entered username:mngr387734
-[INFO ] 2022-03-02 10:18:48.376 [main] Log - Entered password:tehepap
-[INFO ] 2022-03-02 10:18:50.804 [main] Log - Clicked on login button
-[INFO ] 2022-03-02 10:18:50.822 [main] Log - Test Case is Passed
-[INFO ] 2022-03-02 10:18:51.112 [main] Log - TearDown
-[INFO ] 2022-03-02 10:18:52.293 [main] Log - Driver initialised
-[INFO ] 2022-03-02 10:18:58.567 [main] Log - com.inetBanking.testCases.TC_LoginDDT_002Loaded basurl:https://demo.guru99.com/V4/index.php
-[INFO ] 2022-03-02 10:18:58.571 [main] Log - Inside Data Provider
-[INFO ] 2022-03-02 10:19:00.863 [main] Log - user name provided
-[INFO ] 2022-03-02 10:19:01.009 [main] Log - password provided
-[INFO ] 2022-03-02 10:19:04.903 [main] Log - user name provided
-[INFO ] 2022-03-02 10:19:05.322 [main] Log - password provided
-[INFO ] 2022-03-02 10:19:08.095 [main] Log - user name provided
-[INFO ] 2022-03-02 10:19:08.764 [main] Log - password provided
-[INFO ] 2022-03-02 10:19:12.078 [main] Log - user name provided
-[INFO ] 2022-03-02 10:19:12.456 [main] Log - password provided
-[INFO ] 2022-03-02 10:19:15.325 [main] Log - user name provided
-[INFO ] 2022-03-02 10:19:15.651 [main] Log - password provided
-[INFO ] 2022-03-02 10:19:18.446 [main] Log - user name provided
-[INFO ] 2022-03-02 10:19:18.562 [main] Log - password provided
-[INFO ] 2022-03-02 10:19:20.849 [main] Log - Login passed
-[INFO ] 2022-03-02 10:19:24.121 [main] Log - TearDown
-[INFO ] 2022-03-02 10:19:25.309 [main] Log - Driver initialised
-[INFO ] 2022-03-02 10:19:32.999 [main] Log - com.inetBanking.testCases.TC_AddCustomerTest_003Loaded basurl:https://demo.guru99.com/V4/index.php
-[INFO ] 2022-03-02 10:19:33.130 [main] Log - User name is provided
-[INFO ] 2022-03-02 10:19:33.236 [main] Log - Passsword is provided
-[INFO ] 2022-03-02 10:19:38.791 [main] Log - providing customer details....
-[INFO ] 2022-03-02 10:19:44.294 [main] Log - TearDown
-[INFO ] 2022-03-02 10:52:34.504 [main] Log - Driver initialised
-[INFO ] 2022-03-02 10:52:40.074 [main] Log - com.inetBanking.testCases.TC_LoginTest_001Loaded basurl:https://demo.guru99.com/V4/index.php
-[INFO ] 2022-03-02 10:52:40.433 [main] Log - TC_LoginTest_001Entered username:mngr387734
-[INFO ] 2022-03-02 10:52:40.616 [main] Log - Entered password:tehepap
-[INFO ] 2022-03-02 10:52:42.820 [main] Log - Clicked on login button
-[INFO ] 2022-03-02 10:52:42.832 [main] Log - Test Case is Passed
-[INFO ] 2022-03-02 10:52:43.094 [main] Log - TearDown
-[INFO ] 2022-03-02 10:52:44.258 [main] Log - Driver initialised
-[INFO ] 2022-03-02 10:52:49.611 [main] Log - com.inetBanking.testCases.TC_LoginDDT_002Loaded basurl:https://demo.guru99.com/V4/index.php
-[INFO ] 2022-03-02 10:52:49.613 [main] Log - Inside Data Provider
-[INFO ] 2022-03-02 10:52:51.847 [main] Log - user name provided
-[INFO ] 2022-03-02 10:52:51.999 [main] Log - password provided
-[INFO ] 2022-03-02 10:52:54.647 [main] Log - user name provided
-[INFO ] 2022-03-02 10:52:55.028 [main] Log - password provided
-[INFO ] 2022-03-02 10:52:58.000 [main] Log - user name provided
-[INFO ] 2022-03-02 10:52:58.142 [main] Log - password provided
-[INFO ] 2022-03-02 10:53:01.441 [main] Log - user name provided
-[INFO ] 2022-03-02 10:53:01.545 [main] Log - password provided
-[INFO ] 2022-03-02 10:53:04.518 [main] Log - user name provided
-[INFO ] 2022-03-02 10:53:05.134 [main] Log - password provided
-[INFO ] 2022-03-02 10:53:07.606 [main] Log - user name provided
-[INFO ] 2022-03-02 10:53:07.926 [main] Log - password provided
-[INFO ] 2022-03-02 10:53:10.029 [main] Log - Login passed
-[INFO ] 2022-03-02 10:53:13.298 [main] Log - TearDown
-[INFO ] 2022-03-02 10:53:14.277 [main] Log - Driver initialised
-[INFO ] 2022-03-02 10:53:20.904 [main] Log - com.inetBanking.testCases.TC_AddCustomerTest_003Loaded basurl:https://demo.guru99.com/V4/index.php
-[INFO ] 2022-03-02 10:53:21.064 [main] Log - User name is provided
-[INFO ] 2022-03-02 10:53:21.188 [main] Log - Passsword is provided
-[INFO ] 2022-03-02 10:53:27.008 [main] Log - providing customer details....
-[INFO ] 2022-03-02 10:53:32.325 [main] Log - TearDown
-[INFO ] 2022-03-02 11:18:12.077 [main] Log - Driver initialised
-[INFO ] 2022-03-02 11:18:17.877 [main] Log - com.inetBanking.testCases.TC_LoginTest_001Loaded basurl:https://demo.guru99.com/V4/index.php
-[INFO ] 2022-03-02 11:18:18.090 [main] Log - TC_LoginTest_001Entered username:mngr387734
-[INFO ] 2022-03-02 11:18:18.196 [main] Log - Entered password:tehepap
-[INFO ] 2022-03-02 11:18:20.691 [main] Log - Clicked on login button
-[INFO ] 2022-03-02 11:18:20.705 [main] Log - Test Case is Passed
-[INFO ] 2022-03-02 11:18:20.964 [main] Log - TearDown
-[INFO ] 2022-03-02 11:18:22.151 [main] Log - Driver initialised
-[INFO ] 2022-03-02 11:18:28.480 [main] Log - com.inetBanking.testCases.TC_LoginDDT_002Loaded basurl:https://demo.guru99.com/V4/index.php
-[INFO ] 2022-03-02 11:18:28.482 [main] Log - Inside Data Provider
-[INFO ] 2022-03-02 11:18:30.999 [main] Log - user name provided
-[INFO ] 2022-03-02 11:18:31.150 [main] Log - password provided
-[INFO ] 2022-03-02 11:18:34.270 [main] Log - user name provided
-[INFO ] 2022-03-02 11:18:34.446 [main] Log - password provided
-[INFO ] 2022-03-02 11:18:36.871 [main] Log - user name provided
-[INFO ] 2022-03-02 11:18:37.229 [main] Log - password provided
-[INFO ] 2022-03-02 11:18:40.147 [main] Log - user name provided
-[INFO ] 2022-03-02 11:18:40.496 [main] Log - password provided
-[INFO ] 2022-03-02 11:18:43.086 [main] Log - user name provided
-[INFO ] 2022-03-02 11:18:43.436 [main] Log - password provided
-[INFO ] 2022-03-02 11:18:45.971 [main] Log - user name provided
-[INFO ] 2022-03-02 11:18:46.310 [main] Log - password provided
-[INFO ] 2022-03-02 11:18:49.120 [main] Log - Login passed
-[INFO ] 2022-03-02 11:18:51.962 [main] Log - TearDown
-[INFO ] 2022-03-02 11:18:53.098 [main] Log - Driver initialised
-[INFO ] 2022-03-02 11:18:59.432 [main] Log - com.inetBanking.testCases.TC_AddCustomerTest_003Loaded basurl:https://demo.guru99.com/V4/index.php
-[INFO ] 2022-03-02 11:18:59.543 [main] Log - User name is provided
-[INFO ] 2022-03-02 11:18:59.669 [main] Log - Passsword is provided
-[INFO ] 2022-03-02 11:19:05.598 [main] Log - providing customer details....
-[INFO ] 2022-03-02 11:19:10.823 [main] Log - TearDown
+[INFO ] 2022-03-03 10:21:52.223 [main] Log - Driver initialised
+[INFO ] 2022-03-03 10:21:57.638 [main] Log - com.inetBanking.testCases.TC_AddCustomerTest_003Loaded basurl:https://demo.guru99.com/V4/index.php
+[INFO ] 2022-03-03 10:21:58.018 [main] Log - User name is provided
+[INFO ] 2022-03-03 10:21:58.225 [main] Log - Passsword is provided
+[INFO ] 2022-03-03 10:22:04.074 [main] Log - providing customer details....
+[INFO ] 2022-03-03 10:22:24.070 [main] Log - validation started....
+[INFO ] 2022-03-03 10:22:24.126 [main] Log - test case passed....
+[INFO ] 2022-03-03 10:22:24.547 [main] Log - TearDown
+[INFO ] 2022-03-03 10:34:09.698 [main] Log - Driver initialised
+[INFO ] 2022-03-03 10:34:15.312 [main] Log - com.inetBanking.testCases.TC_AddCustomerTest_003Loaded basurl:https://demo.guru99.com/V4/index.php
+[INFO ] 2022-03-03 10:34:15.578 [main] Log - User name is provided
+[INFO ] 2022-03-03 10:34:15.977 [main] Log - Passsword is provided
+[INFO ] 2022-03-03 10:34:21.284 [main] Log - providing customer details....
+[INFO ] 2022-03-03 10:34:26.369 [main] Log - Ad is not popped up
+[INFO ] 2022-03-03 10:34:27.757 [main] Log - TearDown
+[INFO ] 2022-03-03 10:37:24.650 [main] Log - Driver initialised
+[INFO ] 2022-03-03 10:37:30.352 [main] Log - com.inetBanking.testCases.TC_AddCustomerTest_003Loaded basurl:https://demo.guru99.com/V4/index.php
+[INFO ] 2022-03-03 10:37:30.732 [main] Log - User name is provided
+[INFO ] 2022-03-03 10:37:30.935 [main] Log - Passsword is provided
+[INFO ] 2022-03-03 10:37:36.657 [main] Log - providing customer details....
+[INFO ] 2022-03-03 10:37:42.479 [main] Log - Ad is not popped up
+[INFO ] 2022-03-03 10:37:55.742 [main] Log - validation started....
+[INFO ] 2022-03-03 10:37:55.791 [main] Log - test case passed....
+[INFO ] 2022-03-03 10:37:56.117 [main] Log - TearDown
+[INFO ] 2022-03-03 10:38:39.284 [main] Log - Driver initialised
+[INFO ] 2022-03-03 10:38:45.758 [main] Log - com.inetBanking.testCases.TC_AddCustomerTest_003Loaded basurl:https://demo.guru99.com/V4/index.php
+[INFO ] 2022-03-03 10:38:45.956 [main] Log - User name is provided
+[INFO ] 2022-03-03 10:38:46.099 [main] Log - Passsword is provided
+[INFO ] 2022-03-03 10:38:52.037 [main] Log - providing customer details....
+[INFO ] 2022-03-03 10:38:57.121 [main] Log - Ad is not popped up
+[INFO ] 2022-03-03 10:38:57.797 [main] Log - TearDown
+[INFO ] 2022-03-03 10:39:29.938 [main] Log - Driver initialised
+[INFO ] 2022-03-03 10:39:35.623 [main] Log - com.inetBanking.testCases.TC_AddCustomerTest_003Loaded basurl:https://demo.guru99.com/V4/index.php
+[INFO ] 2022-03-03 10:39:35.829 [main] Log - User name is provided
+[INFO ] 2022-03-03 10:39:35.943 [main] Log - Passsword is provided
+[INFO ] 2022-03-03 10:39:41.299 [main] Log - providing customer details....
+[INFO ] 2022-03-03 11:00:36.831 [main] Log - Ad is not popped up
+[INFO ] 2022-03-03 11:00:37.628 [main] Log - TearDown
+[INFO ] 2022-03-03 11:01:35.072 [main] Log - Driver initialised
+[INFO ] 2022-03-03 11:01:41.231 [main] Log - com.inetBanking.testCases.TC_AddCustomerTest_003Loaded basurl:https://demo.guru99.com/V4/index.php
+[INFO ] 2022-03-03 11:01:41.548 [main] Log - User name is provided
+[INFO ] 2022-03-03 11:01:41.665 [main] Log - Passsword is provided
+[INFO ] 2022-03-03 11:01:46.989 [main] Log - providing customer details....
+[INFO ] 2022-03-03 11:06:18.794 [main] Log - Driver initialised
+[INFO ] 2022-03-03 11:06:25.147 [main] Log - com.inetBanking.testCases.TC_AddCustomerTest_003Loaded basurl:https://demo.guru99.com/V4/index.php
+[INFO ] 2022-03-03 11:06:25.330 [main] Log - User name is provided
+[INFO ] 2022-03-03 11:06:25.436 [main] Log - Passsword is provided
+[INFO ] 2022-03-03 11:06:31.769 [main] Log - providing customer details....
+[INFO ] 2022-03-03 11:06:45.226 [main] Log - TearDown
+[INFO ] 2022-03-03 11:07:37.158 [main] Log - Driver initialised
+[INFO ] 2022-03-03 11:07:43.127 [main] Log - com.inetBanking.testCases.TC_AddCustomerTest_003Loaded basurl:https://demo.guru99.com/V4/index.php
+[INFO ] 2022-03-03 11:07:43.507 [main] Log - User name is provided
+[INFO ] 2022-03-03 11:07:44.003 [main] Log - Passsword is provided
+[INFO ] 2022-03-03 11:07:49.432 [main] Log - providing customer details....
+[INFO ] 2022-03-03 11:07:55.625 [main] Log - TearDown
+[INFO ] 2022-03-03 11:08:57.083 [main] Log - Driver initialised
+[INFO ] 2022-03-03 11:09:02.537 [main] Log - com.inetBanking.testCases.TC_AddCustomerTest_003Loaded basurl:https://demo.guru99.com/V4/index.php
+[INFO ] 2022-03-03 11:09:02.835 [main] Log - User name is provided
+[INFO ] 2022-03-03 11:09:02.959 [main] Log - Passsword is provided
+[INFO ] 2022-03-03 11:09:08.165 [main] Log - providing customer details....
+[INFO ] 2022-03-03 11:09:26.706 [main] Log - validation started....
+[INFO ] 2022-03-03 11:09:26.764 [main] Log - test case passed....
+[INFO ] 2022-03-03 11:09:27.164 [main] Log - TearDown
