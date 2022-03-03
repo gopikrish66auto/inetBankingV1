@@ -3,6 +3,7 @@ package com.inetBanking.testCases;
 
 import java.io.File;
 import java.io.IOException;
+import java.time.Duration;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.RandomStringUtils;
@@ -44,7 +45,7 @@ public class BaseTestClass {
 //		driver = new ChromeDriver();
 		Log.info("Driver initialised");
 		driver.manage().deleteAllCookies();
-//		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		driver.get(baseURL);
 		Log.info(this.getClass().getName()+"Loaded basurl:"+baseURL);
 	}
