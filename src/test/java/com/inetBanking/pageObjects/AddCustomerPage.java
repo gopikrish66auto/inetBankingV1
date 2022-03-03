@@ -144,7 +144,7 @@ public class AddCustomerPage {
 	
 	public void closeAd() {
 		
-		try {
+		try { 
 			ldriver.switchTo().frame("google_ads_iframe_/24132379/INTERSTITIAL_DemoGuru99_0");
 			ldriver.switchTo().frame("ad_iframe");
 			ldriver.findElement(By.xpath("//div[@id='dismiss-button']")).click();
