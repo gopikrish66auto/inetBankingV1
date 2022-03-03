@@ -32,7 +32,7 @@ public class TC_AddCustomerTest_003 extends BaseTestClass
 		Thread.sleep(5000);
 //		addcust.switchToWindow();
 		addcust.closeAd();
-		
+		Thread.sleep(2000);
 		addcust.custName("Pavan");
 		addcust.custgender("male");
 		addcust.custdob("10","15","1985");
